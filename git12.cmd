@@ -1,7 +1,7 @@
 cd "E:\-\small artifacts"
 git checkout master
-git checkout -b seventeen
+git checkout -b eightteen
 echo "xtttt5555666666666" >> "E:\-\small artifacts\9.txt" 	
 git add .
-git commit -m seventeen
-git push origin seventeen
+git commit -m eightteen
+git push origin eightteen
